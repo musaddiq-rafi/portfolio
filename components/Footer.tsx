@@ -17,7 +17,7 @@ const Footer = () => {
                 Ready to get <span className='text-purple'>started?</span>
             </h1>
             <p className='text-white-200 md:mt-10 my-5 text-center'>
-                Let's dive in and start building your dream project
+                Let&npos;s dive in and start building your dream project
             </p>
             <a href='mailto:musaddiq@iut-dhaka.edu'>
                 <MagicButton
